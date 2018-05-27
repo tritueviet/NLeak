@@ -1,5 +1,5 @@
-![alt text](https://github.com/tritueviet/NLeak/raw/master/screenshot/up.png)
-![alt text](https://github.com/tritueviet/NLeak/raw/master/screenshot/up2.png)
+![alt text](https://github.com/tritueviet/NLeak/blob/master/screenshoot/up.png)
+![alt text](https://github.com/tritueviet/NLeak/blob/master/screenshoot/up2.png)
 <p>Note:</p>
 <p>Run on windows</p>
 <p>Check leak in native android from all of android</p>
